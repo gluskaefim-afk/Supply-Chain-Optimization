@@ -1,6 +1,4 @@
-# Supply-Chain-Optimization
-
-# Supply Chain Performance Analysis
+# Supply-Chain-Optimization (Performance Analysis)
 
 End-to-end analysis of supply chain bottlenecks with the goal of cutting logistics costs and improving delivery reliability. The work covers data cleaning, exploratory analysis, statistical hypothesis testing, and a bootstrap simulation of potential savings.
 
