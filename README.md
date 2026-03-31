@@ -9,7 +9,7 @@ End-to-end analysis of supply chain bottlenecks with the goal of cutting logisti
 ## What's inside
 
 **1. Data Preparation**  
-Loading raw data from `supply_chain_v2.xlsx`, fixing date types, recalculating lead time as `Shipping times + Manufacturing lead time` (the source column was incorrect), and checking for nulls and duplicates.
+Loading data from `supply_chain_v2.xlsx`, fixing date types, recalculating lead time as `Shipping times + Manufacturing lead time` (the source column was incorrect), and checking for nulls and duplicates.
 
 **2. Exploratory Analysis**  
 Distribution plots and boxplots for price, revenue, shipping cost, manufacturing cost, defect rate, and lead time. Supplier-level revenue and profit breakdown. Carrier-level defect rate comparison. Correlation heatmap across all key metrics.
