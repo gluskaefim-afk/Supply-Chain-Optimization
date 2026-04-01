@@ -39,5 +39,5 @@ Result: **median savings ~4,279 USD** per period, 95% CI: 4,044 – 4,501 USD.
 | Transportation | Air and Sea shipping times are statistically identical, but Air costs ~3.5× more (36.6 vs 10.6 USD avg) |
 | Cost simulation | Shifting 75% of Air to Sea → ~4,279 USD median savings (bootstrapped 95% CI) |
 | Product quality | Electronics and technics categories show the highest defect rates across all suppliers |
-| Correlations | Strong: price–revenue, units sold–manufacturing costs. Moderate: manufacturing costs–defect rate |
+| Correlations | Manufacturing costs positively correlated with defect rate — complex products show higher quality variance |
 | Seasonality | Lead times are stable across 2023–2024; no significant year-over-year shift detected |
