@@ -24,7 +24,7 @@ Revenue breakdown by customer demographic group to support prioritization decisi
 - Pivot tables: carrier × transport mode × route
 
 **5. Hypothesis — Air vs. Sea Shipping**  
-The descriptive stats showed that Air and Sea have nearly identical lead times despite a large cost gap. A Mann-Whitney U test confirmed the difference is not statistically significant (p = 0.68). This became the basis for the cost optimization scenario.
+The descriptive stats showed that Air and Sea have nearly identical lead times and shipping times despite a large cost gap. A Mann-Whitney U test confirmed the difference is not statistically significant (p = 0.68). This became the basis for the cost optimization scenario.
 
 **6. Scenario Simulation**  
 Bootstrap simulation (10,000 iterations): shift 75% of Air shipments to Sea.  
