@@ -43,3 +43,16 @@ Result: **median savings ~4,281 USD** per period, 95% CI: 3,877 – 4,684 USD.
 | ⚠️ Product quality | Electronics-related suppliers (ElectoMart, DigiParts Ltd, TechSource Asia) show the highest defect rates |
 | 📈 Correlations | Manufacturing costs positively correlated with defect rate — complex products show higher quality variance |
 | 📅 Stability | Lead times and shipping costs are stable across 2023–2024; no significant year-over-year shift detected |
+
+---
+
+## Business Impact
+
+| Initiative | Action | Expected Outcome |
+|------------|--------|-----------------|
+| 🚢 Modal shift | Redirect 75% of Air shipments to Sea | ~4,281 USD savings per period (95% CI: 3,877–4,684 USD) with no delivery time penalty |
+| ⚠️ Supplier quality | Prioritize audits and improvement plans for ElectoMart, DigiParts Ltd, TechSource Asia | Reduce defect-driven rework and return costs across the electronics category |
+| 📦 Carrier & route optimization | Reallocate volume toward lower-cost carriers and routes identified in pivot analysis | Further reduction in per-unit shipping cost beyond the modal shift gains |
+| 🔄 Lead time monitoring | Establish periodic ANOVA-based checks across supplier locations | Early detection of emerging regional delays before they affect SLAs |
+
+The most immediately actionable lever is the **Air → Sea modal shift**: the bootstrap simulation confirms savings are statistically robust and the operational risk is low, since lead times are statistically indistinguishable between the two modes. Quality improvements at high-defect electronics suppliers represent the second-largest cost reduction opportunity, as manufacturing cost and defect rate are positively correlated — meaning quality issues compound into higher production costs over time.
